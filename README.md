@@ -77,7 +77,7 @@ Set up a secure hosting environment (e.g., AWS, Heroku, or DigitalOcean).
 This project is licensed under the MIT License.
 
 
-Replace `<repository-url>` with the URL of your repository. This `README.md` provides a comprehensive overview of your backend, URL configurations, and deployment guidelines.
+Replace [`<repository-url>`](https://github.com/rahulxqmoz/blog_app.git) with the URL of your repository. This `README.md` provides a comprehensive overview of your backend, URL configurations, and deployment guidelines.
 
 
 
